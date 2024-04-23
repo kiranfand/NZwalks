@@ -4,7 +4,8 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace NZWalks.API.Controllers
 {
-    // kiran fand SDK infotech
+    // kiran fand SDK infotech  
+    // rushi jagtap 
     // https://localhost:portnumber/api/students
     [Route("api/[controller]")]
     [ApiController]
