@@ -6,6 +6,8 @@ namespace NZWalks.API.Controllers
 {
     // kiran fand SDK infotech  
     // rushi jagtap 
+    // kiran fand SDK infotech
+    // swappy amantya technologies
     // https://localhost:portnumber/api/students
     [Route("api/[controller]")]
     [ApiController]
