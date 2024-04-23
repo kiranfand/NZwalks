@@ -9,7 +9,8 @@ namespace NZwalks.API.Data
         {
                 
         }
-
+        // swappy 
+        // amantya technologies
         public DbSet<Difficulty> Difficulties { get; set; }
 
         public DbSet<Region> Regions { get; set; }
