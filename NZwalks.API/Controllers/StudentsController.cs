@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace NZWalks.API.Controllers
 {
     // kiran fand SDK infotech
+    // swappy amantya technologies
     // https://localhost:portnumber/api/students
     [Route("api/[controller]")]
     [ApiController]
